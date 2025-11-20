@@ -11,6 +11,7 @@ flutter pub add sqflite
 ```
 6. Start debugging with Android Emulator from Android Studio
 
+<br>
 ## This is how the lib folder should look like
 ```
 lib/
