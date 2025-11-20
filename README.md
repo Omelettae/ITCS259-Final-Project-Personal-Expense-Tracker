@@ -5,8 +5,8 @@
 2. Create new Flutter project and select Empty Application
 3. Extract the file downloaded from github
 4. Put the file in "lib" folder
-5. run on terminal
+5. Run on terminal
 ```
 flutter pub add sqflite
 ```
-6. start debugging with Android Emulator from Android Studio
+6. Start debugging with Android Emulator from Android Studio
