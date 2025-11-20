@@ -10,3 +10,18 @@
 flutter pub add sqflite
 ```
 6. Start debugging with Android Emulator from Android Studio
+
+## This is how the lib folder should look like
+```
+lib
+ |---assets
+ |      |---constant.dart
+ |      |---transaction.dart
+ |
+ |---Page
+ |      |---createpage.dart
+ |      |---readpage.dart
+ |      |---updatepage.dart
+ |
+ |---main.dart
+```
