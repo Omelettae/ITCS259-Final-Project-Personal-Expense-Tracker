@@ -5,7 +5,7 @@
 2. Create new Flutter project and select Empty Application
 3. Extract the file downloaded from github
 4. Put the file in "lib" folder
-5. Run on terminal
+5. Run this command on the terminal
 ```
 flutter pub add sqflite
 ```
