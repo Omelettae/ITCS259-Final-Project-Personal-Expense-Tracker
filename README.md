@@ -13,12 +13,12 @@ flutter pub add sqflite
 
 ## This is how the lib folder should look like
 ```
-lib
- |---assets
+lib/
+ |---assets/
  |      |---constant.dart
  |      |---transaction.dart
  |
- |---Page
+ |---Page/
  |      |---createpage.dart
  |      |---readpage.dart
  |      |---updatepage.dart
